@@ -4,7 +4,7 @@
 
 **Análise EV Challenge 2026**: Implementação do ChargeGrid Intelligence (CGI)
 
-**Equipe 4 - 1CCPG **
+**Equipe 4 - 1CCPG**
 
 **Problema e Justificativa** 
 A transição da GoodWe do ambiente residencial para o comercial revelou dificuldades críticas de integração entre carregadores, sistemas de gestão e plataformas de cobrança. Os principais problemas identificados são:
