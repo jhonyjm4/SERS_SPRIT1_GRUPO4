@@ -8,6 +8,7 @@
 
 **Problema e Justificativa**: 
 A transição da GoodWe do ambiente residencial para o comercial revelou dificuldades críticas de integração entre carregadores, sistemas de gestão e plataformas de cobrança. Os principais problemas identificados são:
+
 -Risco de Sobrecarga: O consumo simultâneo em eletropostos pode ultrapassar o limite da infraestrutura local, causando quedas de energia e danos a transformadores.  
 -Falta de Padronização: A ausência de protocolos abertos universais e a variação de versões entre eletropostos limitam a interoperabilidade e ferem normas da ANEEL.  
 -Inviabilidade Econômica: A dependência exclusiva da rede elétrica da concessionária gera altos custos operacionais e torna o modelo insustentável com o aumento da frota de veículos elétricos.  
